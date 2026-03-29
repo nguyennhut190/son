@@ -1,0 +1,20 @@
+.football-shoes-sa-le-50,
+.football-shoes-sa-le-50 * {
+  box-sizing: border-box;
+}
+.football-shoes-sa-le-50 {
+  color: #000000;
+  text-align: left;
+  position: relative;
+  height: 200px;
+}
+.football-shoes-sa-le-50-span {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.football-shoes-sa-le-50-span2 {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 64px;
+  font-weight: 600;
+}
